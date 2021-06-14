@@ -1,3 +1,10 @@
+# React App - Pokemon API
+
+1. React App that displays a button with an onClick event.
+2. Button will fetch Pokemon from the Pokemon API when clicked. 
+3. Page will display the output of all the Pokemon names from API.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
