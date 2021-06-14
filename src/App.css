@@ -1,0 +1,30 @@
+.container {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.button-row {
+  text-align: center;
+  display: block;
+
+}
+
+button {
+  height: 50px;
+  font-weight: 600;
+  text-align: center;
+}
+ul {
+  text-align: center;
+  padding: 70px 0;
+}
+  
+
+
+li { 
+  font-size: larger;
+
+}
