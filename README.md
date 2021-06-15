@@ -1,8 +1,10 @@
 # React App - Pokemon API
 
 1. React App that displays a button with an onClick event.
-2. Button will fetch Pokemon from the Pokemon API when clicked. 
-3. Page will display the output of all the Pokemon names from API.
+2. App uses axios to get and display results from API call. 
+4. Button will get Pokemon from the Pokemon API when clicked. 
+5. Page will display the output of all the Pokemon names from API.
+6.  Limit is set to display up to 807 Pokemon names.
 
 
 # Getting Started with Create React App
